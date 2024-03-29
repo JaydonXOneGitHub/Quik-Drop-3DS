@@ -1,0 +1,2 @@
+Hello, we're reading data from a text file.
+Isn't this neat?

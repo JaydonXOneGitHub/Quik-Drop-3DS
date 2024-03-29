@@ -1,0 +1,17 @@
+--atlas -f rgba8888 -z auto
+
+gfx/tileset/snow/middle_bottom_ledge.png
+gfx/tileset/snow/right_bottom_ledge.png
+gfx/tileset/snow/left_bottom_ledge.png
+gfx/tileset/snow/middle_up_ledge.png
+gfx/tileset/snow/right_up_ledge.png
+gfx/tileset/snow/left_up_ledge.png
+gfx/tileset/snow/true_middle_ledge.png
+gfx/tileset/snow/right_middle_ledge.png
+gfx/tileset/snow/left_middle_ledge.png
+gfx/tileset/snow/corner_1.png
+gfx/tileset/snow/corner_2.png
+gfx/tileset/snow/corner_3.png
+gfx/tileset/snow/corner_4.png
+
+
