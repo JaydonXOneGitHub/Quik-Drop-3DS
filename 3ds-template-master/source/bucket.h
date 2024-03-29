@@ -12,7 +12,7 @@ public:
             Vector2(position.x + 13, position.y), 
             Vector2(
                 (image.subtex->width * scale.x) - 26,
-                (3 * scale.y)));
+                (4 * scale.y)));
     }
 
     Bucket(
@@ -24,7 +24,7 @@ public:
     {
         image = C2D_SpriteSheetGetImage(sheet, index);
         position = Vector2(xPos,
-            (240 - (image.subtex->height * scale.y)));
+            (230 - (image.subtex->height * scale.y)));
     }
 
     void Render()
