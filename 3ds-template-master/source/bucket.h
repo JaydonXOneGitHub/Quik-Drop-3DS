@@ -24,7 +24,7 @@ public:
     {
         image = C2D_SpriteSheetGetImage(sheet, index);
         position = Vector2(xPos,
-            (230 - (image.subtex->height * scale.y)));
+            (240 - (image.subtex->height * scale.y)));
     }
 
     void Render()
