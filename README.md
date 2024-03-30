@@ -20,3 +20,8 @@ If you have devkitPro and libctru installed, you just extract
 the top directory (3ds-template-master) and
 type "make" into a CMD prompt or VS Code
 terminal.
+
+# Credits
+Shoutouts to the makers of libctru, Citro2D and Citro3D, as
+well as the people in the Nintendo Homebrew Discord
+server: https://discord.gg/nintendohomebrew
