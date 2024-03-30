@@ -14,3 +14,9 @@ you want to get into 3DS Homebrew yourself.
 This game was written in C++ based on C libraries,
 so get at least a somewhat good understanding of
 C++ before delving into a project like this.
+
+# Build Project
+If you have devkitPro and libctru installed, you just extract
+the top directory (3ds-template-master) and
+type "make" into a CMD prompt or VS Code
+terminal.
