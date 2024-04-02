@@ -25,3 +25,6 @@ terminal.
 Shoutouts to the makers of libctru, Citro2D and Citro3D, as
 well as the people in the Nintendo Homebrew Discord
 server: https://discord.gg/nintendohomebrew
+
+# Screenshot
+![image](https://github.com/JaydonXOneGitHub/Quik-Drop-3DS/assets/131696751/23930d7c-17d9-4251-bf0d-eafb287400dd)
